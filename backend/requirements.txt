@@ -1,0 +1,5 @@
+flask==2.0.1
+werkzeug==2.0.3
+flask-cors==3.0.10
+asyncio==3.4.3
+setuptools==62.0.0 
